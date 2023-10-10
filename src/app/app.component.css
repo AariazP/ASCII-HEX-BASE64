@@ -1,0 +1,21 @@
+.bg{
+
+  background-color: #252525;
+
+
+}
+
+.child{
+
+  margin: 3rem 20rem;
+  background-color: #6b6b6b;
+  border-radius: 10px;
+
+}
+
+.mg-text{
+
+  margin: 0 0 0 1rem;
+  color: #fff;
+
+}
